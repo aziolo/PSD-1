@@ -1,0 +1,8 @@
+org/example/StreamingJob$parseRow.class
+org/example/StreamingJob$controlStream.class
+org/example/BatchJob.class
+org/example/StreamingJob$titleFilter.class
+org/example/StreamingJob.class
+org/example/StreamingJob$fullTrigger.class
+org/example/StreamingJob$rateOfReturn.class
+org/example/StreamingJob$controlStream$1.class
